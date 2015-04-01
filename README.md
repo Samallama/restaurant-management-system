@@ -1,6 +1,6 @@
 # restaurant-management-system
 
-We are a group of students from the Informatic Institute of Technology in Sri Lanka looking to create an Adnroid application for our second semester coursework.
+We are a group of students from the Informatic Institute of Technology in Sri Lanka looking to create an Android application for our second semester coursework.
 
 Our application is a restaurant management system that allows:
   -waiters to view tables, add, edit and delete orders and view the status of orders using an android application
